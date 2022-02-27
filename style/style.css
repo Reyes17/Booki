@@ -1,0 +1,379 @@
+.booki{
+    padding-left:3%;
+    padding-right: 3%;
+}
+
+
+.header
+{
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.navigation ul
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px;
+}
+
+.navigation ul li{
+	margin: 10px;
+	list-style-type: none;
+	padding-top: 20px;
+   
+}
+
+.navigation a:link{
+    text-decoration: none;
+    color: #0065FC;
+}
+    
+.header img{
+	padding: 20px;
+	width: 100px;
+	height: auto;
+}
+
+.border:hover
+{
+	border-top: 2px solid #0065FC;
+}
+
+.section1{
+    margin-top: 6%;
+}
+
+.part1
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 25%;
+	height: 35px;
+	border-bottom-right-radius: 15px whitesmoke;
+	border-bottom-left-radius: 10px whitesmoke;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	background-color: rgba(200, 200, 200, 0.20);
+}
+
+.couleur
+{
+	background-color: #0065FC;
+	height: 35px;
+	color: white;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+#add .if
+{
+	margin: 20%;
+}
+
+#add
+{
+	height: 33px;
+	width: 15%;
+	border-radius: 6px/6px;
+	border: 1px solid #F2F2F2;  
+	background-color: #F2F2F2;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+.Filtres
+{
+	display: flex;
+	justify-content: space-between;
+	width: 60%;
+	align-content: center;
+	align-items: center;
+}
+
+.element-filtre .if
+{
+padding: 5px;
+color: #0065FC;
+background-color:#93b2f5; 
+border-radius: 40px;
+font-size: 20px;
+}
+
+.element-filtre
+{
+	display: flex;
+	align-items: center;
+	width: max-content;
+	height: 35px;
+	border-radius: 25px;
+	border: 3px solid #F2F2F2; 
+	padding-right: 3px;
+}
+
+.element-filtre:hover
+{
+	background-color: #0065FC;
+	color: white;
+	box-shadow: 6px 6px 5px black;
+	width: max-content;
+}
+
+#plus
+{
+	display: flex;
+	align-items: center;
+}
+
+.icon{
+   border-radius: 20px; 
+   border: 1px solid black;
+   color: #0065FC;
+   font-size: 17px;
+   width: 15px;
+   padding-left: 0.6%;
+}
+
+#plus p{
+    margin-left: 10px;
+}
+
+.color
+{
+	background-color: #F2F2F2;
+	border:1px solid white;
+	border-radius: 15px;
+	width: 58%;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	margin-right: 20px;
+}
+
+.adc img
+{
+	width: 200px;
+	height: 130px;
+	background-size: cover;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+    margin: 2%;
+}
+
+.adc
+{
+	margin-right: 30px;
+	background-color: white;
+	border: 1px solid rgb(255, 253, 253);
+	border-radius: 10px;
+    width: 220px;
+    height: auto;
+}
+
+.adc h1, p
+{
+	justify-content: center;
+    font-size: 1.2em;
+}
+
+.hebergement
+{
+	display: flex;
+}
+
+.le {
+
+	display: flex;
+
+}
+
+.adc2 img{
+	width: 200px;
+	height: 130px;
+	background-size: cover;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+    margin: 2%;
+}
+
+.adc2
+{
+    margin-top: 3%;
+	margin-right: 30px;
+	background-color: white;
+	border: 1px solid rgb(255, 253, 253);
+	border-radius: 10px;
+    width: 220px;
+    height: auto;
+}
+
+.h1 a:link{
+    text-decoration: none;
+    color: black;
+    margin-top: 4%;
+}
+
+#but
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: : 20px;
+}
+
+.uniaside
+{
+	display: flex;
+	font-size: 1em;
+	margin:10px;
+	background-color: white;
+	border: 1px solid #F2F2F2;
+	padding: 2px;
+	border-radius: 10px;
+	justify-content: space-between;
+	width: auto;
+}
+
+.textaside
+{
+	margin: auto;
+	width: 35%;
+}
+
+
+.aside
+{
+	width: 170px;
+	height: 180px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	align-items: center; 
+}
+
+aside
+{
+	justify-content: space-around;
+	height: 693px;
+	background-color: #F2F2F2;
+	border:1px solid white;
+	border-radius: 15px;
+	width: 35%; 
+	padding: 15px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+}
+
+.uniaside:hover
+{
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+.adc2:hover
+{
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+.adc:hover
+{
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+.h3 a:link{
+    text-decoration: none;
+    color: black;
+}
+
+.act
+{
+	font-size: 1.2em;
+	border-radius: 10px;
+	width: 25%;
+}
+    
+.mise-activite
+{
+	border-radius: 15px;
+	width: 280px;
+	font-size: 0.6em;
+	border-bottom: 1px white solid;
+	margin: 15%;
+    box-shadow: 6px 6px 6px 6px #F2F2F2;
+}
+
+.activites
+{
+	display: flex;
+	border:white solid 2px;
+	border-radius: 15px;
+}
+
+#Activités{
+    margin-top: 10%;
+}
+
+.mise-activite h1{
+    margin-left: 5%;
+}
+
+.mise-activite:hover
+{
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+#activite1, #activite4
+{
+	width: 280px;
+	height: 400px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+ #activite2, #activite6
+ {
+ 	width: 280px;
+	height: 150px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+ }
+
+#activite3, #activite5
+{
+	width: 280px;
+	height: 200px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+footer li
+{
+	list-style-type: none;
+}
+
+.footer
+{
+	
+	display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    background-color:#F2F2F2;
+}
+
+@font-face{
+    font-family: "Raleway";
+    src: url("../font/Raleway/static/Raleway-Regular.ttf");
+    src: url("../font/Raleway/static/Raleway-Bold.ttf");
+}
+
+body{
+    font-family:"Raleway-Regular", sans-serif;
+}
+
+h1, h2, h3{
+    font-family: "Raleway-Bold", sans-serif;
+}
